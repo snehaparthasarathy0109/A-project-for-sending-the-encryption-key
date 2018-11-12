@@ -1,0 +1,9 @@
+c:\users\sneha\documents\visual studio 2015\Projects\email\email\bin\Debug\email.exe.config
+c:\users\sneha\documents\visual studio 2015\Projects\email\email\bin\Debug\email.exe
+c:\users\sneha\documents\visual studio 2015\Projects\email\email\bin\Debug\email.pdb
+c:\users\sneha\documents\visual studio 2015\Projects\email\email\obj\Debug\email.csprojResolveAssemblyReference.cache
+c:\users\sneha\documents\visual studio 2015\Projects\email\email\obj\Debug\email.Form1.resources
+c:\users\sneha\documents\visual studio 2015\Projects\email\email\obj\Debug\email.Properties.Resources.resources
+c:\users\sneha\documents\visual studio 2015\Projects\email\email\obj\Debug\email.csproj.GenerateResource.Cache
+c:\users\sneha\documents\visual studio 2015\Projects\email\email\obj\Debug\email.exe
+c:\users\sneha\documents\visual studio 2015\Projects\email\email\obj\Debug\email.pdb
